@@ -2,4 +2,4 @@ git clone test example
 git_home 에서 추가 했습니다.
 git_home 에서 뒤늦게 같은자리 추가
 git_test
-test 브랜치 에서 추가
+git_master 브랜치
